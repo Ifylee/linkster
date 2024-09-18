@@ -26,7 +26,6 @@ Run npm install
 ```
 
 **Run the application:**
-To run:
 
 ```
 npm start
@@ -53,6 +52,7 @@ This API can be tested using tools like Postman or command-line utilities such a
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Contributing
 Contributions are welcome!.
