@@ -9,7 +9,7 @@ It is developed with Express.js for routing, MongoDB as the database, and Mongoo
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies-used](#technologies-used)
+- [Technologies used](#technologies-used)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -49,8 +49,6 @@ This API can be tested using tools like Postman or command-line utilities such a
 - Mongoose
 
 ## Walkthrough Video
-- Link to walkthrough video:
-This video showcases the functionality of the social network API. 
 [![video image](image.png)](link)
 
 ## License
