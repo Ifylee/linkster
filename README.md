@@ -39,7 +39,7 @@ Create, read, update, and delete users and thoughts.
 React to friends' thoughts.
 Add and remove friends from a friend list.
 
-This API can be tested using tools like Postman or command-line utilities such as curl.
+This API can be tested using tools like insomnia, Postman or command-line utilities such as curl.
 
 ## Technologies Used
 - Node.js
@@ -58,7 +58,7 @@ Contributions are welcome!.
 
 ## Questions
 
-  For more questions, please open an issue on my github: [ifylee](https://github.com/ifylee)
+  For more questions, please open an issue on my github: [ifylee](https://github.com/Ifylee/linkster)
 
   You can also contact me directly at: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
 
