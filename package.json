@@ -1,7 +1,20 @@
 {
-  "dependencies": {
-    "express": "^4.21.0",
-    "mongoose": "^8.7.0",
+  "name": "mern-server",
+  "version": "1.0.0",
+  "description": "An API for a social network web application where users can share thoughts, react to friends' thoughts, and create a friend list.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"dependencies": {
+  "express": "^4.21.0",
+  "mongoose": "^8.7.0"
+},
+"devDependencies": {
     "nodemon": "^3.1.7"
   }
 }
